@@ -251,7 +251,14 @@ body {
 
 @media (min-width: 300px) and (max-width: 640px) {
   .home-titulo {
-    font-size: small;
+    display: flex;
+    font-size: 10px;
+  }
+
+  .home-paragrafo {
+    display: flex;
+    font-weight: 100;
+    font-family: sans-serif;
   }
 
   /*cabeçalho*/
