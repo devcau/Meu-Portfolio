@@ -249,7 +249,7 @@ body {
   z-index: 1;
 }
 
-@media (min-width: 350px) and (max-width: 640px) {
+@media (min-width: 300px) and (max-width: 640px) {
   .home-titulo {
     font-size: small;
   }
