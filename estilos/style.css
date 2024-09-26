@@ -249,7 +249,7 @@ body {
   z-index: 1;
 }
 
-@media (min-width: 300px) and (max-width: 640px) {
+@media (min-width: 200px) and (max-width: 640px) {
   .home-titulo {
     display: flex;
     font-size: 10px;
@@ -259,6 +259,10 @@ body {
     display: flex;
     font-weight: 100;
     font-family: sans-serif;
+  }
+
+  .home-sci {
+    margin-top: 50px;
   }
 
   /*cabeçalho*/
