@@ -191,6 +191,10 @@ body {
   }
 }
 
+.home-titulo {
+  font-size: 24px;
+}
+
 /*ABOUT ME*/
 
 .main {
@@ -262,7 +266,7 @@ body {
   }
 
   .home-sci {
-    margin-top: 30px;
+    margin-top: 55px;
   }
 
   /*cabeçalho*/
